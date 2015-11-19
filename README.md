@@ -16,12 +16,12 @@ make
 git clone https://github.com/kumalee/gitsame
 cd [project path]
 ln -s [project path]/trim /usr/local/bin/trim
-ln -s [project path]/gitsame.sh /usr/local/bin/gitsame
+ln -s [project path]/gitsame.sh /usr/local/bin/git-same
 ```
 
 ## Usage
 ```
-gitsame [commit hash] [target branch]
+git same [commit hash] [target branch]
 ```
 commit hash is required.
 

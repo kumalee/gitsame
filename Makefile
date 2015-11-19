@@ -1,7 +1,7 @@
 TRIM="${PWD}/trim.sh"
 GITSAME="${PWD}/gitsame.sh"
 TRIM_BIN="/usr/local/bin/trim"
-GITSAME_BIN="/usr/local/bin/gitsame"
+GITSAME_BIN="/usr/local/bin/git-same"
 
 install:
 	@echo 'Create softlink for trim, gitsame...'
