@@ -26,3 +26,9 @@ gitsame [commit hash] [target branch]
 commit hash is required.
 
 target branch is optional, default value is --all.
+
+## Uninstall
+```
+cd [project path]
+make uninstall
+```
